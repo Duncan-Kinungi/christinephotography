@@ -222,7 +222,7 @@ body{
 /* home section */
  .home-section{
  	min-height: 100vh;
- 	background-image: url('../img/about1.jpg');
+ 	background-image: url('/img/about1.jpg');
  	background-size: cover;
  	background-position: center;
  	position: relative;
